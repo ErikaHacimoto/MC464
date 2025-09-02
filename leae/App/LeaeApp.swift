@@ -8,6 +8,6 @@ struct LeaeApp: App {
                 TabBar()
             }
         }
-    }`
+    }
 }
 
