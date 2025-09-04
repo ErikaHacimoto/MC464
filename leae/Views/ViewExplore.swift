@@ -1,5 +1,8 @@
 //Defeito de Omissao e de Inicializacao
 
+/* defeito de omissão: barra de pesquisa e botão de mic que não fazem nada
+ defeito de inicialização: todas as capas serem iguais, inicializar uma estrutura diferente e incompleta (explorebook em relação a classe livro), nomes autores errados para os livros */
+
 import SwiftUI
 
 struct ExploreView: View {
